@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>Backbot</servlet-name>
+        <servlet-class>com.controller.Backbot</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FarmerRegister</servlet-name>
+        <servlet-class>com.controller.FarmerRegister</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>farmerLogin</servlet-name>
+        <servlet-class>com.controller.farmerLogin</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>marathifont</servlet-name>
+        <servlet-class>com.controller.marathifont</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UploadDataset</servlet-name>
+        <servlet-class>com.controller.UploadDataset</servlet-class>
+        <multipart-config>
+            <location>C:/temp</location>
+            <max-file-size>10485760</max-file-size>
+            <!-- 10MB -->
+            <max-request-size>20971520</max-request-size>
+            <!-- 20MB -->
+            <file-size-threshold>5242880</file-size-threshold>
+            <!-- 5MB -->
+        </multipart-config>
+    </servlet>
+    <servlet>
+    <servlet-name>PredictPriceServlet</servlet-name>
+    <servlet-class>com.controller.PredictPriceServlet</servlet-class>
+</servlet>
+    <servlet-mapping>
+        <servlet-name>Backbot</servlet-name>
+        <url-pattern>/Backbot</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FarmerRegister</servlet-name>
+        <url-pattern>/FarmerRegister</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>farmerLogin</servlet-name>
+        <url-pattern>/farmerLogin</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>marathifont</servlet-name>
+        <url-pattern>/marathifont</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UploadDataset</servlet-name>
+        <url-pattern>/UploadDataset</url-pattern>
+    </servlet-mapping>
+        <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+ 
+</web-app>

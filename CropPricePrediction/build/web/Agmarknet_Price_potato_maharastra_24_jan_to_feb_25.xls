@@ -1,0 +1,403 @@
+Min,Max,Modal Price from Maharashtra[Potato] from 13-Jun-2025To13-Jun-2025 (Total-18) (Total-18)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">2500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">1650</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Sholapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Akluj</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Akola</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Akola</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Amarawati</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Amrawati(Frui & Veg. Market)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Chandrapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Chandrapur(Ganjwad)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Nagpur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Hingna</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">2500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">2250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Thane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Kalyan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Nagpur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Kamthi</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">2500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Nasik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">1900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Pune(Khadiki)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Pune(Moshi)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Rahata</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">1550</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Sangli</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Sangli(Phale, Bhajipura Market)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Shrirampur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Sholapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Solapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">1150</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Satara</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Vai</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">2500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">2250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Mumbai</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Vashi New Mumbai</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Potato</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">1100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">13 Jun 2025</span>
+                                </td>
+		</tr>
+	</table>
+</div>

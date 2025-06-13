@@ -1,0 +1,755 @@
+Min,Max,Modal Price from Maharashtra[Onion] from 13-Jun-2025To13-Jun-2025 (Total-34) (Total-34)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Sholapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Akluj</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">900</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Akola</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Akola</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Amarawati</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Amrawati(Frui & Veg. Market)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">2100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Jalgaon</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Bhusaval</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Devala</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">1790</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Dharashiv(Usmanabad)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Dharashiv</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">1300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Dhule</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Dhule</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">1260</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">1150</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Dindori</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">950</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">2351</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Nagpur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Hingna</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Jalgaon</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Jalgaon</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">1512</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">962</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Junnar(Alephata)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">1100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">2210</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Kalvan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">2205</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">1350</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Thane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Kalyan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">1st Sort</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">1750</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Nagpur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Kamthi</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">1100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">1300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Karjat</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">1800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">1100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Kolhapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Kolhapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">2100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Lasalgaon</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">2100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Lasalgaon(Vinchur)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">2021</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">1600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                19
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_18">Sholapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_18">Mangal Wedha</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_18">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_18">400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_18">1700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_18">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_18">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                20
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_19">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_19">Manmad</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_19">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_19">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_19">1781</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_19">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_19">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                21
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_20">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_20">Nasik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_20">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_20">325</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_20">2211</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_20">1450</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_20">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                22
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_21">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_21">Pimpalgaon</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_21">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_21">585</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_21">2508</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_21">1650</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_21">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                23
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_22">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_22">Pimpalgaon Baswant(Saykheda)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_22">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_22">700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_22">1652</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_22">1370</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_22">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                24
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_23">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_23">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_23">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_23">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_23">600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_23">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_23">1300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_23">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                25
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_24">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_24">Pune(Khadiki)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_24">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_24">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_24">700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_24">1300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_24">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_24">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                26
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_25">Pune</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_25">Pune(Moshi)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_25">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_25">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_25">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_25">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_25">1250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_25">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                27
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_26">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_26">Rahata</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_26">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_26">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_26">600</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_26">2200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_26">1550</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_26">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                28
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_27">Ahmednagar</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_27">Sangamner</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_27">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_27">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_27">300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_27">2311</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_27">1305</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_27">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                29
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_28">Sangli</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_28">Sangli(Phale, Bhajipura Market)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_28">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_28">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_28">500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_28">2300</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_28">1400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_28">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                30
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_29">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_29">Sinner</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_29">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_29">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_29">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_29">1801</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_29">1650</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_29">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                31
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_30">Sholapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_30">Solapur</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_30">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_30">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_30">100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_30">2500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_30">1100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_30">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                32
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_31">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_31">Umrane</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_31">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_31">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_31">800</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_31">1751</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_31">1250</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_31">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                33
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_32">Mumbai</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_32">Vashi New Mumbai</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_32">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_32">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_32">1000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_32">2000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_32">1500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_32">13 Jun 2025</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                34
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_33">Nashik</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_33">Yeola</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_33">Onion</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_33">Local</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_33">200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_33">1551</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_33">1200</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_33">13 Jun 2025</span>
+                                </td>
+		</tr>
+	</table>
+</div>
