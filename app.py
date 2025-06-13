@@ -17,28 +17,12 @@ MYSQL_PASSWORD = ""
 MYSQL_DB = "croppriceprediction"
 
 def get_data(crop, city):
-    try:
-        conn = mysql.connector.connect(
-            host="localhost",
-            user="root",
-            password="",
-            database="croppriceprediction"
-        )
-        query = """
-            SELECT arrival_date, modal_price 
-            FROM price_dataset 
-            WHERE LOWER(crop) = LOWER(%s) AND LOWER(city) = LOWER(%s)
-        """
-        df = pd.read_sql(query, conn, params=(crop, city))
-        conn.close()
+    df = pd.read_csv("Agmarknet_Price_potato.csv")
+    print("Loaded", len(df), "rows")
+    df = df[(df["crop"] == crop) & (df["city"] == city)]
+    print("Filtered to", len(df), "rows for", crop, city)
+    return df
 
-        df['arrival_date'] = pd.to_datetime(df['arrival_date'], errors='coerce', dayfirst=True)
-        df['modal_price'] = pd.to_numeric(df['modal_price'], errors='coerce')
-        df = df.dropna()
-        return df.sort_values("arrival_date")
-    except Exception as e:
-        print("DB Error:", e)
-        return pd.DataFrame()
 
 
 def predict_rf(df, future_date_str):
@@ -75,30 +59,26 @@ def predict_rf(df, future_date_str):
         return [-1]
 
 
-@app.route("/predict", methods=["GET"])
+@app.route('/predict', methods=['GET'])
 def predict_price():
-    crop = request.args.get("crop")
-    city = request.args.get("city")
-    date = request.args.get("date")
-    model = request.args.get("model", "rf")
+    crop = request.args.get('crop')
+    city = request.args.get('city')
+    date = request.args.get('date')
+    model = request.args.get('model', 'rf')
 
     if not crop or not city or not date:
-        return jsonify({"error": "Missing parameters"}), 400
+        return jsonify({"error": "Missing input"}), 400
 
     df = get_data(crop, city)
     if df.empty:
         return jsonify({"error": "No data found"}), 404
 
-    forecast = predict_rf(df, date)
-
-    if forecast[0] == -1:
-        return jsonify({"error": "Prediction failed"}), 500
-
+    # Prediction logic here (example for RF):
+    forecast = predict_rf(df)
     return jsonify({"forecast": forecast})
-
 import os
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
-    app.run(debug=True, host='0.0.0.0', port=port)
+    app.run(debug=True, host="0.0.0.0", port=port)
+
 
