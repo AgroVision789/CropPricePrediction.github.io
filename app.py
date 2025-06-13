@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # === Load Data from CSV ===
 def get_data(crop, city):
-    df = pd.read_csv("Agmarknet_Price_potato.csv")  # or dynamically select file if multiple
+    df = pd.read_csv("Agmarknet_Price_potato_maharastra_24_jan_to_feb_25.csv")  # or dynamically select file if multiple
     print("Loaded", len(df), "rows")
     df = df[(df["crop"] == crop) & (df["city"] == city)]
     print("Filtered to", len(df), "rows for", crop, city)
