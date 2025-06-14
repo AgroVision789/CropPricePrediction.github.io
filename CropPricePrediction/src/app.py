@@ -18,27 +18,16 @@ MYSQL_DB = "croppriceprediction"
 
 def get_data(crop, city):
     try:
-        conn = mysql.connector.connect(
-            host="localhost",
-            user="root",
-            password="",
-            database="croppriceprediction"
-        )
-        query = """
-            SELECT arrival_date, modal_price 
-            FROM price_dataset 
-            WHERE LOWER(crop) = LOWER(%s) AND LOWER(city) = LOWER(%s)
-        """
-        df = pd.read_sql(query, conn, params=(crop, city))
-        conn.close()
-
-        df['arrival_date'] = pd.to_datetime(df['arrival_date'], errors='coerce', dayfirst=True)
+        df = pd.read_csv("Agmarknet_Price_potato_maharastra_24_jan_to_feb_25.csv")
+        df['arrival_date'] = pd.to_datetime(df['arrival_date'], dayfirst=True, errors='coerce')
         df['modal_price'] = pd.to_numeric(df['modal_price'], errors='coerce')
         df = df.dropna()
+        df = df[(df["crop"].str.lower() == crop.lower()) & (df["city"].str.lower() == city.lower())]
         return df.sort_values("arrival_date")
     except Exception as e:
-        print("DB Error:", e)
+        print("CSV Error:", e)
         return pd.DataFrame()
+
 
 
 def predict_rf(df, future_date_str):
